@@ -6,5 +6,7 @@ public class java_1 {
         System.out.println("git_2");
         System.out.println("git_2");
         System.out.println("git_2");
+
+        System.out.println("megr");
     }
 }
