@@ -8,8 +8,6 @@ public class java_1 {
         System.out.println("git_2");
         System.out.println("megr");
         System.out.println("mastertext");
-        System.out.println("mastertext");
-        System.out.println("mastertext");
 
         System.out.println("mastertext");
         System.out.println("123");
