@@ -13,5 +13,11 @@ public class java_1 {
         System.out.println("mastertext");
 
         System.out.println("mastertext");
+        System.out.println("123");
+        System.out.println("345");
+
+        System.out.println("123123123");
+        System.out.println("hotTest");
+
     }
 }
