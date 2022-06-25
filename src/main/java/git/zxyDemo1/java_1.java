@@ -6,7 +6,6 @@ public class java_1 {
         System.out.println("git_2");
         System.out.println("git_2");
         System.out.println("git_2");
-
         System.out.println("megr");
         System.out.println("mastertext");
         System.out.println("mastertext");
@@ -18,6 +17,7 @@ public class java_1 {
 
         System.out.println("123123123");
         System.out.println("hotTest");
+        System.out.println("现在已经成功上传到github");
 
     }
 }
